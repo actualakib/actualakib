@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Adnan Akib</h1>
-<h3>Driven by desire to grow, constantly working on new projects, participating in coding contests, and collaborating with creative developers.</h3>
+<h3>A passionate programmer who’s always learning and growing. Constantly working on new projects, competing in coding contests, and teaming up with creative developers. Excited to solve tough problems, get better at coding, and keep up with the latest in tech.
+
+</h3>
 
 ## 🏆 GitHub Trophies
 
